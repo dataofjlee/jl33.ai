@@ -211,7 +211,7 @@
    - ⚖️ Fairness in Machine Learning
    - ⚖️ Bias Detection and Mitigation
    - 🔐 Privacy and Data Security
-   - 🧲 Zook's 5
+   - 🧲 [Zook's 5](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
    - ***🔏 Data Privacy and Governance:***
 	   - 📚 Understanding regulations like GDPR, CCPA
 	   - 🔏 Data anonymisation and pseudonymisation techniques
