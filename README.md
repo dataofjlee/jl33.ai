@@ -210,7 +210,7 @@
    - ⚖️ Fairness in Machine Learning
    - ⚖️ Bias Detection and Mitigation
    - 🔐 Privacy and Data Security
-   - 🧲 Hooke's 5
+   - 🧲 Zook's 5
    - ***🔏 Data Privacy and Governance:***
 	   - 📚 Understanding regulations like GDPR, CCPA
 	   - 🔏 Data anonymisation and pseudonymisation techniques
@@ -227,8 +227,8 @@
     
 ### 12. 🎓 Continuous Learning and Staying Updated:
    - 🌐 Online Courses and Tutorials
-   - 📚 Books and Research Papers
-   - 📝 Blogs and Podcasts
+   - 📖 [Books and Research Papers]()
+   - 🎙️ [Great Podcasts]()
    - 📚 Conferences and Workshops
    - 👥 Networking and Community Engagement
 
