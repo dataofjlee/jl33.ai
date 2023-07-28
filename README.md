@@ -28,10 +28,11 @@
 ```
 
 ---
-	**About me**
-	Hey there, I'm Justin. I'm a second year university student from Australia.
- 	I'm always up for a chat, and love to speak with people whose models of the world differ from mine.
-  	I love deriving the deeper meaning in things, which is why my chosen craft is data science. 
+**About me**
+
+>Hey there, I'm Justin. I'm a second year university student from Australia.
+>I'm always up for a chat, and love to speak with people whose models of the world differ from mine.
+>I love deriving the deeper meaning in things, which is why my chosen craft is data science. 
 ---
 
 ## My Roadmap 
