@@ -239,7 +239,10 @@
    - 🏗️ Understanding of design principles and architectural patterns
    - 💻 Familiarity with Integrated Development Environments (IDEs)
 
-### 14. Miscellaneous 
-   - ✏️ Consulting 
-   - 🚲 Wheelie
-   - 💸 Economics
+### 14. Miscellaneous:
+- ✏️ Consulting
+- 🚲 Wheelie
+- 💸 Economics
+- 🏀 Dunk
+- 📕 Write a Book
+- [ ] test
