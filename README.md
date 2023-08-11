@@ -240,9 +240,10 @@
    - 💻 Familiarity with Integrated Development Environments (IDEs)
 
 ### 14. Miscellaneous:
-- ✏️ Consulting
-- 🚲 Wheelie
-- 💸 Economics
-- 🏀 Dunk
-- 📕 Write a Book
-- [ ] test
+- [ ] ✏️ Consulting
+- [ ] 🚲 Wheelie
+- [ ] 💸 Economics
+- [ ] 🏀 Dunk
+- [ ] 📕 Write a Book
+- [ ] 🗣️ Zhōngwén
+- [ ] 🧱 App
