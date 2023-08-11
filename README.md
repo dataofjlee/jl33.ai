@@ -247,3 +247,4 @@
 - [ ] 📕 Write a Book
 - [ ] 🗣️ Zhōngwén
 - [ ] 🧱 App
+- 🟥🟧🟨🟩🟦🟪
