@@ -31,9 +31,10 @@
 ---
 **About me**
 
->Hey there, I'm Justin. I'm a second year university student from Australia.
->I'm always up for a chat, and love to speak with people whose models of the world differ from mine.
->I love deriving the deeper meaning in things, which is why my chosen craft is data science. 
+>`Name: Justin. Status: second year DS university student Located: Australia 🇦🇺`
+>I love to speak with people whose **model of the world** differ from mine.
+>I love deriving the **unexpected** and the **important**, which is why my craft of choice is data science.
+>And because statistics tickle my brain, data is EVERYTHING, and magic. 
 ---
 
 ## My Roadmap 
@@ -211,7 +212,7 @@
    - ⚖️ Fairness in Machine Learning
    - ⚖️ Bias Detection and Mitigation
    - 🔐 Privacy and Data Security
-   - 🧲 [Zook's 5](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
+   - 🧲 Zook's 5 [e.g1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
    - ***🔏 Data Privacy and Governance:***
 	   - 📚 Understanding regulations like GDPR, CCPA
 	   - 🔏 Data anonymisation and pseudonymisation techniques
