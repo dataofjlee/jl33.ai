@@ -31,12 +31,15 @@
 ---
 **About me**
 
->`Name: Justin,
->Status: second year DS university student,
->Located: Australia 🇦🇺`
-><br>I love to speak with people whose **model of the world** differ from mine.
+```
+Name: Justin,
+Status: second year DS university student,
+Located: Australia 🇦🇺
+```
+>I love to speak with people whose **model of the world** differ from mine.
 ><br>I love deriving the **unexpected** and the **important**, which is why my craft of choice is data science.
-><br>And because statistics tickle my brain, data is EVERYTHING, and magic. 
+><br>I like data science because it is post-structural, completely independent of our human biases (if we make it so)
+><br>...and because statistics tickle my brain, data ⇒ semantics ⇒  literally **EVERYTHING**, and it is the closest thing we have to magic ✧.
 ---
 
 ## My Roadmap 
