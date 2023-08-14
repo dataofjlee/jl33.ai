@@ -31,10 +31,12 @@
 ---
 **About me**
 
->`Name: Justin. Status: second year DS university student Located: Australia 🇦🇺`
->I love to speak with people whose **model of the world** differ from mine.
->I love deriving the **unexpected** and the **important**, which is why my craft of choice is data science.
->And because statistics tickle my brain, data is EVERYTHING, and magic. 
+>`Name: Justin,
+>Status: second year DS university student,
+>Located: Australia 🇦🇺`
+><br>I love to speak with people whose **model of the world** differ from mine.
+><br>I love deriving the **unexpected** and the **important**, which is why my craft of choice is data science.
+><br>And because statistics tickle my brain, data is EVERYTHING, and magic. 
 ---
 
 ## My Roadmap 
