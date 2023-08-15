@@ -41,13 +41,13 @@ Located: Australia 🇦🇺
 ><br>...and because statistics tickle my brain, data ⇒ semantic modelling ⇒  `literally { EVERYTHING } ⊆ Data Science`, and it is the closest thing we have to magic ✧.
 ---
 
-## My Roadmap 
+## My Roadmap 🎒
 
 ### 1. 📚 Foundational Knowledge: 
    - ***🧮 Mathematics:*** 
        - 🔢 Linear Algebra
        - ∫ Calculus
-       - 🎲 Probability and Statistics
+       - 🎲 Probability and Statistics [A](https://github.com/jl33-ai/my-notes/blob/main/math-prob-stats)
    - ***💻 Programming:*** 
        - 🐍 Python: 
            - 📜 Syntax and Basic Concepts
@@ -216,7 +216,7 @@ Located: Australia 🇦🇺
    - ⚖️ Fairness in Machine Learning
    - ⚖️ Bias Detection and Mitigation
    - 🔐 Privacy and Data Security
-   - 🧲 Zook's 5 [e.g1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
+   - 🧲 Zook's 5 [A](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
    - ***🔏 Data Privacy and Governance:***
 	   - 📚 Understanding regulations like GDPR, CCPA
 	   - 🔏 Data anonymisation and pseudonymisation techniques
