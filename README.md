@@ -43,33 +43,40 @@ Located: Australia 🇦🇺
 
 ## My Roadmap 🎒
 
-### 1. 📚 Foundational Knowledge: 
-   - ***🧮 Mathematics:*** 
-       - 🔢 Linear Algebra
-       - ∫ Calculus
-       - 🎲 Probability and Statistics [A](https://github.com/jl33-ai/my-notes/blob/main/math-prob-stats)
-   - ***💻 Programming:*** 
-       - 🐍 Python: 
-           - 📜 Syntax and Basic Concepts
-           - 📚 Data Structures
-           - ↪️ Control Structures
-           - 🔄 Functions
-           - 🏭 Object-Oriented Programming
-       - 🅡 R (optional, based on preference)
-       - 🔍 SQL
+<details><summary>1. 📚 Foundational Knowledge:</summary>
+   
+- ***🧮 Mathematics:*** 
+    - 🔢 Linear Algebra
+    - ∫ Calculus
+    - 🎲 Probability and Statistics [A](https://github.com/jl33-ai/my-notes/blob/main/math-prob-stats)
+- ***💻 Programming:*** 
+    - 🐍 Python: 
+        - 📜 Syntax and Basic Concepts
+        - 📚 Data Structures
+        - ↪️ Control Structures
+        - 🔄 Functions
+        - 🏭 Object-Oriented Programming
+    - 🅡 R (optional, based on preference)
+    - 🔍 SQL
 
-### 2. 💾 Data Manipulation and Visualisation: 
-   - ***🔄 Data Manipulation:***
-       - 🧮 Numpy (Python) 
-       - 🐼 Pandas (Python) 
-       - 🔄 Dplyr (R) 
-   - ***📊 Data Visualisation:*** 
-       - 📉 Matplotlib (Python)
-       - 📈 Seaborn (Python)
-       - 📊 ggplot2 (R)
-       - 🔮 Interactive Visualisation Tools
+</details>
 
-### 3. 🔍 Exploratory Data Analysis (EDA) and Preprocessing: 
+<details><summary>2. 💾 Data Manipulation and Visualisation:</summary>
+   
+- ***🔄 Data Manipulation:***
+    - 🧮 Numpy (Python) 
+    - 🐼 Pandas (Python) 
+    - 🔄 Dplyr (R) 
+- ***📊 Data Visualisation:*** 
+    - 📉 Matplotlib (Python)
+    - 📈 Seaborn (Python)
+    - 📊 ggplot2 (R)
+    - 🔮 Interactive Visualisation Tools
+
+</details>
+
+<details><summary>3. 🔍 Exploratory Data Analysis (EDA) and Preprocessing:</summary>
+	
    - 🕵️‍♀️ Exploratory Data Analysis Techniques
    - ⚙️ Feature Engineering
    - 🧼 Data Cleaning
@@ -77,7 +84,10 @@ Located: Australia 🇦🇺
    - ⚖️ Data Scaling and Normalisation
    - 🕳️ Outlier Detection and Treatment
 
-### 4. 🤖 Machine Learning: 
+</details>
+
+<details><summary>4. 🤖 Machine Learning:</summary>
+	
    - ***👨‍🏫 Supervised Learning:***
        - 📈 Regression: 
            - 📊 Linear Regression
@@ -111,7 +121,10 @@ Located: Australia 🇦🇺
        - 📈 Learning Curves and Bias-Variance Tradeoff
        - 💡 Model Interpretability and Explainability (SHAP, LIME)
 
-### 5. 🧠 Deep Learning: 
+</details>
+
+<details><summary>5. 🧠 Deep Learning:</summary>
+	
    - ***🧠 Neural Networks:***
        - 💡 Perceptron 
        - 📚 Multi-Layer Perceptron (MLP)
@@ -134,8 +147,11 @@ Located: Australia 🇦🇺
 	   - 🔍 Attention Mechanisms
 	   - 🔄 Transfer Learning
 	   - 🎓 Self-Supervised Learning
+     - 
+</details>
 
-### 6. 🔬 Advanced Topics: 
+<details><summary>6. 🔬 Advanced Topics:</summary>
+
    - ***💬 Natural Language Processing (NLP):***
        - 📚 Text Preprocessing
        - 📚 Word Embeddings (e.g., Word2Vec, GloVe)
@@ -175,7 +191,10 @@ Located: Australia 🇦🇺
            - 🔄 Transfer Learning
 	   - 🎓 Self-Supervised Learning
 
-### 7. 📊 Big Data Technologies:
+</details>
+
+<details><summary>7. 📊 Big Data Technologies:</summary>
+
    - 🐘 Hadoop
    - 📂 HDFS
    - 🔄 MapReduce
@@ -193,7 +212,18 @@ Located: Australia 🇦🇺
        - 📡 Apache Flink
        - 🌪️ Apache Storm
 
-### 8. 📈 Data Visualisation and Reporting:
+</details>
+
+<details><summary>8. 💠 Algorithms:</summary>
+   
+- Hill Climb
+- Genetic Algorithm; Beam Search
+- 
+
+</details>
+
+<details><summary>9. 📈 Data Visualisation and Reporting:</summary>
+
    - ***🎛️ Dashboarding Tools:***
        - 📊 Tableau
        - 💥 PowerBI 
@@ -201,8 +231,11 @@ Located: Australia 🇦🇺
        - 🅡 Shiny (R)
    - 📖 Storytelling with Data
    - 🗣️ Effective Communication
-    
-### 9. 🎯 Domain Knowledge and Soft Skills: 
+
+</details>
+
+<details><summary>10. 🎯 Domain Knowledge and Soft Skills: </summary>
+
    - 🏭 Industry-specific Knowledge
    - 💡 Problem-solving
    - 🗣️ Communication Skills
@@ -212,7 +245,10 @@ Located: Australia 🇦🇺
 	   - 📈 Understanding of business metrics and Key Performance Indicators (KPIs)
 	   - 🔀 Ability to translate business problems into data problems and vice versa
 
-### 10. ⚖️ Ethical Considerations and Bias in Data Science: 
+</details>
+
+<details><summary>11. ⚖️ Ethical Considerations and Bias in Data Science:</summary>
+
    - ⚖️ Fairness in Machine Learning
    - ⚖️ Bias Detection and Mitigation
    - 🔐 Privacy and Data Security
@@ -221,7 +257,10 @@ Located: Australia 🇦🇺
 	   - 📚 Understanding regulations like GDPR, CCPA
 	   - 🔏 Data anonymisation and pseudonymisation techniques
 
-### 11. 🚀 Deployment and Productionisation: 
+</details>
+
+<details><summary>12. 🚀 Deployment and Productionisation:</summary>
+
    - 🏭 Model Deployment Techniques
    - 📦 Containerisation (e.g., Docker)
    - 🌐 Model Serving and APIs
@@ -231,20 +270,29 @@ Located: Australia 🇦🇺
 	   - 🗂️ Familiarity with project management tools (JIRA, Asana, etc.)
 	   - 👥 Experience with collaborative coding platforms (GitHub, GitLab, etc.)
     
-### 12. 🎓 Continuous Learning and Staying Updated:
+</details>
+
+<details><summary>13. 🎓 Continuous Learning and Staying Updated:</summary>
+
    - 🌐 Online Courses and Tutorials
    - 📖 [Books and Research Papers]()
    - 🎙️ [Great Podcasts]()
    - 📚 Conferences and Workshops
    - 👥 Networking and Community Engagement
 
-### 13. 👨‍💻 Software Engineering Best Practices:
+</details>
+
+<details><summary>14. 👨‍💻 Software Engineering Best Practices:</summary>
+	
    - ✏️ Writing clean, efficient, and reusable code
    - 🐜 Code testing and debugging
    - 🏗️ Understanding of design principles and architectural patterns
    - 💻 Familiarity with Integrated Development Environments (IDEs)
 
-### 14. Miscellaneous:
+</details>
+
+<details><summary>15. 🃏 Miscellaneous:</summary>
+   
 - [ ] ✏️ Consulting
 - [ ] 🚲 Wheelie
 - [ ] 💸 Economics
@@ -253,3 +301,5 @@ Located: Australia 🇦🇺
 - [ ] 🗣️ Zhōngwén
 - [ ] 🧱 App
 - 🟥🟧🟨🟩🟦🟪
+
+</details>
