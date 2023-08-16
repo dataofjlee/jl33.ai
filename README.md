@@ -43,7 +43,7 @@ Located: Australia 🇦🇺
 
 ## My Roadmap 🎒
 
-<details><summary>1. 📚 Foundational Knowledge:</summary>
+<details><summary><strong>1. 📚 Foundational Knowledge:</strong></summary>
    
 - ***🧮 Mathematics:*** 
     - 🔢 Linear Algebra
@@ -61,7 +61,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>2. 💾 Data Manipulation and Visualisation:</summary>
+<details><summary><strong>2. 💾 Data Manipulation and Visualisation:</strong></summary>
    
 - ***🔄 Data Manipulation:***
     - 🧮 Numpy (Python) 
@@ -75,7 +75,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>3. 🔍 Exploratory Data Analysis (EDA) and Preprocessing:</summary>
+<details><summary><strong>3. 🔍 Exploratory Data Analysis (EDA) and Preprocessing:</strong></summary>
 	
    - 🕵️‍♀️ Exploratory Data Analysis Techniques
    - ⚙️ Feature Engineering
@@ -86,7 +86,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>4. 🤖 Machine Learning:</summary>
+<details><summary><strong>4. 🤖 Machine Learning:</strong></summary>
 	
    - ***👨‍🏫 Supervised Learning:***
        - 📈 Regression: 
@@ -123,7 +123,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>5. 🧠 Deep Learning:</summary>
+<details><summary><strong>5. 🧠 Deep Learning:</strong></summary>
 	
    - ***🧠 Neural Networks:***
        - 💡 Perceptron 
@@ -150,7 +150,7 @@ Located: Australia 🇦🇺
      - 
 </details>
 
-<details><summary>6. 🔬 Advanced Topics:</summary>
+<details><summary><strong>6. 🔬 Advanced Topics:</strong></summary>
 
    - ***💬 Natural Language Processing (NLP):***
        - 📚 Text Preprocessing
@@ -193,7 +193,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>7. 📊 Big Data Technologies:</summary>
+<details><summary><strong>7. 📊 Big Data Technologies:</strong></summary>
 
    - 🐘 Hadoop
    - 📂 HDFS
@@ -214,7 +214,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>8. 💠 Algorithms:</summary>
+<details><summary><strong>8. 💠 Algorithms:</strong></summary>
    
 - Hill Climb
 - Genetic Algorithm; Beam Search
@@ -222,7 +222,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>9. 📈 Data Visualisation and Reporting:</summary>
+<details><summary><strong>9. 📈 Data Visualisation and Reporting:</strong></summary>
 
    - ***🎛️ Dashboarding Tools:***
        - 📊 Tableau
@@ -234,7 +234,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>10. 🎯 Domain Knowledge and Soft Skills: </summary>
+<details><summary><strong>10. 🎯 Domain Knowledge and Soft Skills:</strong></summary>
 
    - 🏭 Industry-specific Knowledge
    - 💡 Problem-solving
@@ -247,7 +247,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>11. ⚖️ Ethical Considerations and Bias in Data Science:</summary>
+<details><summary><strong>11. ⚖️ Ethical Considerations and Bias in Data Science:</strong></summary>
 
    - ⚖️ Fairness in Machine Learning
    - ⚖️ Bias Detection and Mitigation
@@ -259,7 +259,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>12. 🚀 Deployment and Productionisation:</summary>
+<details><summary><strong>12. 🚀 Deployment and Productionisation:</strong></summary>
 
    - 🏭 Model Deployment Techniques
    - 📦 Containerisation (e.g., Docker)
@@ -272,7 +272,7 @@ Located: Australia 🇦🇺
     
 </details>
 
-<details><summary>13. 🎓 Continuous Learning and Staying Updated:</summary>
+<details><summary><strong>13. 🎓 Continuous Learning and Staying Updated:</strong></summary>
 
    - 🌐 Online Courses and Tutorials
    - 📖 [Books and Research Papers]()
@@ -282,7 +282,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>14. 👨‍💻 Software Engineering Best Practices:</summary>
+<details><summary><strong>14. 👨‍💻 Software Engineering Best Practices:</strong></summary>
 	
    - ✏️ Writing clean, efficient, and reusable code
    - 🐜 Code testing and debugging
@@ -291,7 +291,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary>15. 🃏 Miscellaneous:</summary>
+<details><summary><strong>15. 🃏 Miscellaneous:</strong></summary>
    
 - [ ] ✏️ Consulting
 - [ ] 🚲 Wheelie
