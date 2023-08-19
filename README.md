@@ -49,11 +49,11 @@ Located: Australia 🇦🇺
 - ***🧮 Mathematics:*** 
     - 🔢 Linear Algebra
     - ∫ Calculus
-    - 🎲 Probability and Statistics [A](https://github.com/jl33-ai/my-notes/blob/main/math-prob-stats)
+    - 🎲 Probability and Statistics | [Notes](https://github.com/jl33-ai/my-notes/blob/main/math-prob-stats) | [Pairs Trading](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation/blob/main/Pairs%20Trading%20Strategy.ipynb) | 
 - ***💻 Programming:*** 
     - 🐍 Python: 
-        - 📜 Syntax and Basic Concepts
-        - 📚 Data Structures
+        - 📜 Syntax and Basic Concepts | [Tesla](https://github.com/jl33-ai/textbased-elonmusk-game) | 
+        - 📚 Data Structures | [DOA]() 
         - ↪️ Control Structures
         - 🔄 Functions
         - 🏭 Object-Oriented Programming
@@ -107,7 +107,7 @@ Located: Australia 🇦🇺
            - 🎈 DBSCAN
            - 🌳 Hierarchical Clustering
        - 📉 Dimensionality Reduction
-           - 🔍 Principal Component Analysis (PCA)
+           - 🔍 Principal Component Analysis (PCA) | [SOP Dataset](https://github.com/jl33-ai/security-of-payment-dataset) | 
            - 🔭 t-Distributed Stochastic Neighbour Embedding (t-SNE)
            - 📊 Linear Discriminant Analysis (LDA)
            - 🔗 Association Rule Learning
@@ -264,7 +264,7 @@ Located: Australia 🇦🇺
 
    - 🏭 Model Deployment Techniques
    - 📦 Containerisation (e.g., Docker)
-   - 🌐 Model Serving and APIs
+   - 🌐 Model Serving and APIs | [GPT Butler](https://github.com/jl33-ai/girlfriend-gpt-butler) | 
    - 📈 Scalability and Performance Optimisation
    - ***🧑‍💻 Project Management and Collaboration Tools:***
 	   - 📚 Knowledge of version control systems like Git
@@ -301,7 +301,7 @@ Located: Australia 🇦🇺
 - [ ] 📕 Write a Book
 - [ ] 🗣️ Zhōngwén
 - [ ] 🧱 App
-- 🟥🟧🟨🟩🟦🟪
+- 🟥🟧🟨🟩🟦🟪 | [Poetry](https://github.com/jl33-ai/poetry-in-python) | [Graphic Design](https://github.com/jl33-ai/graphic-design/tree/main) | 
 
 </details>
 
