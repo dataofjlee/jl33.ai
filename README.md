@@ -292,7 +292,7 @@ Located: Australia 🇦🇺
 
 </details>
 
-<details><summary><strong>15. 🃏 Miscellaneous:</strong></summary>
+<details><summary><strong>15.  🃏  Miscellaneous:</strong></summary>
    
 - [ ] ✏️ Consulting
 - [ ] 🚲 Wheelie
@@ -304,3 +304,6 @@ Located: Australia 🇦🇺
 - 🟥🟧🟨🟩🟦🟪
 
 </details>
+
+<strong>My top picks for *coolest* data science applications</strong>
+[🖲️]()
