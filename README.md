@@ -59,7 +59,7 @@ Located: Australia 🇦🇺
         - 🔄 Functions
         - 🏭 Object-Oriented Programming
     - 🅡 R (optional, based on preference)
-    - 🔍 SQL
+    - 🔍 SQL | [Tickets](https://github.com/jl33-ai/tswift-database)
 
 </details>
 
