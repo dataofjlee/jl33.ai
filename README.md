@@ -36,11 +36,12 @@ Name: Justin,
 Status: second year DS university student,
 Located: Australia 🇦🇺
 ```
+>In this stage of my life you'll find me mashing keys and making cool sh*t
 ><br> I am passionate about building data centric software applications. 
 >I love to speak with people whose **model of the world** differ from mine.
 ><br>My craft of choice is data science because it is post-structural, completely independent of our human biases (if we make it so)
 ><br>...and because statistics tickle my brain, data ⇒ semantic modelling ⇒  `literally { EVERYTHING } ⊆ Data Science`, and it is the closest thing we have to magic ✧.
-><br> I like CS x DS because it enables us to, with often a few lines, **create** things orders of magntitudes smarter than ourselves.
+><br> I like CS x DS because it enables us to **create** things orders of magntitudes smarter than ourselves in a few lines of code.
 ---
 
 ## My Roadmap 🎒
