@@ -31,6 +31,7 @@
 ```
 Name: Justin,
 Located: Australia 🇦🇺
+Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 ```
 ><br>I love to speak with people whose **model of the world** differ from mine.
 ><br>I love to use my skills to help **people, businesses, and the planet** 👨‍👩‍👧‍👦📈🌱
