@@ -33,12 +33,17 @@ Name: Justin,
 Located: Australia 🇦🇺
 ```
 ><br>I love to speak with people whose **model of the world** differ from mine.
-><br>I love to use my skills to help **people, businesses, and the planet**
+><br>I love to use my skills to help **people, businesses, and the planet** 👨‍👩‍👧‍👦📈🌱
+><br>I like to build data-driven applications much smarter than me
 
 ---
 
-Highlighted Projects: 
-- ()[]
+## Highlighted Projects: 
+- [Building ChatGPT from Scratch, Using my Personal Diary](https://github.com/jl33-ai/diary-gpt/tree/main)
+- [Helping Tradies Get their Money Back using Machine Learning](https://github.com/jl33-ai/security-of-payment-dataset)
+- [Girlfriends, Calendars, and the ChatGPT API](https://github.com/jl33-ai/girlfriend-gpt-butler)
+- [Remaking the Times Tables with Data Science](https://github.com/jl33-ai/s9-quant)
+- [The Pairs Trading Strategy](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation)
 
 ---
 
