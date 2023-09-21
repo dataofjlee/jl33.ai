@@ -33,6 +33,7 @@ Name: Justin,
 Located: Australia 🇦🇺
 Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 ```
+>Hi! My name is Justin. I'm a data scientist x coder, and I mainly love **simulating** things.
 ><br>I love to speak with people whose **model of the world** differ from mine.
 ><br>I love to use my skills to help **people, businesses, and the planet** 👨‍👩‍👧‍👦📈🌱
 ><br>I like to build data-driven applications much smarter than me
