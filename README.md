@@ -26,7 +26,7 @@
 ```
 
 ---
-**About me**
+**About me 👦🏻**
 
 ```
 Name: Justin,
@@ -40,7 +40,7 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 
 ---
 
-## Highlighted Projects: 
+## Highlighted Projects 🎨
 - [Building ChatGPT from Scratch, Using my Personal Diary](https://github.com/jl33-ai/diary-gpt/tree/main)
 - [Helping Tradies Get their Money Back using Machine Learning](https://github.com/jl33-ai/security-of-payment-dataset)
 - [Girlfriends, Calendars, and the ChatGPT API](https://github.com/jl33-ai/girlfriend-gpt-butler)
@@ -311,6 +311,3 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 - 🟥🟧🟨🟩🟦🟪 | [Poetry](https://github.com/jl33-ai/poetry-in-python) | [Graphic Design](https://github.com/jl33-ai/graphic-design/tree/main) | 
 
 </details>
-
-<strong>My top picks for *coolest* data science applications</strong>
-[🖲️]()
