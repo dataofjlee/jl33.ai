@@ -42,7 +42,7 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 ---
 
 ## Highlighted Projects 🎨
-- [Building ChatGPT from Scratch, Using my Personal Diary](https://github.com/jl33-ai/diary-gpt/tree/main)
+- [Building a GPT from Scratch, Using my Personal Diary](https://github.com/jl33-ai/diary-gpt/tree/main)
 - [Helping Tradies Get their Money Back using Machine Learning](https://github.com/jl33-ai/security-of-payment-dataset)
 - [Girlfriends, Calendars, and the ChatGPT API](https://github.com/jl33-ai/girlfriend-gpt-butler)
 - [Remaking the Times Tables with Data Science](https://github.com/jl33-ai/s9-quant)
