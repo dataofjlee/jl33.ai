@@ -36,7 +36,8 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 >Hi! My name is Justin. I'm a data scientist x coder, and I mainly love **simulating** things.
 ><br>I love to speak with people whose **model of the world** differ from mine.
 ><br>I love to use my skills to help **people, businesses, and the planet** 👨‍👩‍👧‍👦📈🌱
-><br>I like to build data-driven applications much smarter than me
+><br>I like to build **data-driven** applications much smarter than me
+><br>I believe that **Data Science** is a creative, iterative, and explorational art for those who see the beauty in numbers. 
 
 ---
 
@@ -46,6 +47,8 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 - [Girlfriends, Calendars, and the ChatGPT API](https://github.com/jl33-ai/girlfriend-gpt-butler)
 - [Remaking the Times Tables with Data Science](https://github.com/jl33-ai/s9-quant)
 - [The Pairs Trading Strategy](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation)
+- [An Exploration of the Simulated Annealling Algorithm - CS x DS](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/simulated_annealing_parameter_optimisation.ipynb)
+- [Hill Climb Algorithms to Detect Cancer]
 
 ---
 
