@@ -26,19 +26,18 @@
 ```
 
 ---
+
 **About me 👦🏻**
 
 ```
 Name: Justin,
 Located: Australia 🇦🇺
 Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
-```
->Hi! My name is Justin. I'm a data scientist x coder, and I mainly love **simulating** things.
-><br>I love to speak with people whose **model of the world** differ from mine.
-><br>I love to use my skills to help **people, businesses, and the planet** 👨‍👩‍👧‍👦📈🌱
-><br>I like to build **data-driven** applications much smarter than me
-><br>I believe that **Data Science** is a creative, iterative, and explorational art for those who see the beauty in numbers. 
 
+> Hi! My name is Justin. I'm a data scientist x coder, and I mainly love **simulating** things.
+> I love to speak with people whose **model of the world** differ from mine.
+> I believe that **Data Science** is a creative, iterative, and explorational art for those who see the beauty in numbers. 
+```
 ---
 
 ## Highlighted Projects 🎨
@@ -53,7 +52,16 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 
 ---
 
+## Quick Access to Interactive Notebooks `(.ipynb)` 📒
+- [An Exploration of the Simulated Annealling Algorithm](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/simulated_annealing_parameter_optimisation.ipynb)
+
 ## My Roadmap 🎒
+
+**Tracker**
+Leetcodes: `XXX`
+HackerRank: ``
+Kaggle: ``
+
 
 <details><summary><strong>1. 📚 Foundational Knowledge:</strong></summary>
    
