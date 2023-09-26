@@ -29,15 +29,15 @@
 
 **About me 👦🏻**
 
-```
-Name: Justin,
-Located: Australia 🇦🇺
-Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
+**`Name:`** `Justin`
+**`Located:`** `Australia 🇦🇺`
+**`Profession:`** `Modelling 💃🏼 (data)`
+**`Trillion dollar question:`** `"Can LLM's learn from synthetic training data? 💡"`
 
-> Hi! My name is Justin. I'm a data scientist x coder, and I mainly love **simulating** things.
-> I love to speak with people whose **model of the world** differ from mine.
-> I believe I lie at the intersection of DS, CS, and Art (math and visual)
-> My philosophy is: aesthetic AND bedrock technical foundations
+><br> Hi! My name is Justin. I'm a data scientist x coder, and I mainly love **simulating** things.
+><br> I love to speak with people whose **model of the world** differ from mine.
+><br> I believe I lie at the intersection of DS, CS, and Art (math and visual)
+><br> My philosophy is: aesthetic AND bedrock technical foundations
 ```
 ---
 
