@@ -44,7 +44,7 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 - [Building a GPT from Scratch, Using my Personal Diary](https://github.com/jl33-ai/diary-gpt/tree/main)
 - [Helping Tradies Get their Money Back using Machine Learning](https://github.com/jl33-ai/security-of-payment-dataset)
 - [Girlfriends, Calendars, and the ChatGPT API](https://github.com/jl33-ai/girlfriend-gpt-butler)
-- [Remaking the Times Tables with Data Science](https://github.com/jl33-ai/s9-quant)
+- [Reconstructing the Times Tables with Data Science](https://github.com/jl33-ai/s9-quant)
 - [The Pairs Trading Strategy](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation)
 - [An Exploration of the Simulated Annealling Algorithm - CS x DS](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/simulated_annealing_parameter_optimisation.ipynb)
 - [Hill Climb Algorithms to Detect Cancer]
@@ -54,6 +54,8 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 
 ## Quick Access to Interactive Notebooks `(.ipynb)` 📒
 - [An Exploration of the Simulated Annealling Algorithm](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/simulated_annealing_parameter_optimisation.ipynb)
+- [Pairs Trading](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation/blob/main/Pairs%20Trading%20Strategy.ipynb)
+- 
 
 ## My Roadmap 🎒
 
