@@ -36,7 +36,8 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 
 > Hi! My name is Justin. I'm a data scientist x coder, and I mainly love **simulating** things.
 > I love to speak with people whose **model of the world** differ from mine.
-> I believe that **Data Science** is a creative, iterative, and explorational art for those who see the beauty in numbers. 
+> I believe I lie at the intersection of DS, CS, and Art (math and visual)
+> My philosophy is: aesthetic AND bedrock technical foundations
 ```
 ---
 
