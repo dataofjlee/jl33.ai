@@ -30,8 +30,11 @@
 **About me 👦🏻**
 
 **`Name:`** `Justin`
+
 **`Located:`** `Australia 🇦🇺`
+
 **`Profession:`** `Modelling 💃🏼 (data)`
+
 **`Trillion dollar question:`** `"Can LLM's learn from synthetic training data? 💡"`
 
 ><br> Hi! My name is Justin. I'm a data scientist x coder, and I mainly love **simulating** things.
