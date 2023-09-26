@@ -41,7 +41,7 @@
 ><br> I love to speak with people whose **model of the world** differ from mine.
 ><br> I believe I lie at the intersection of DS, CS, and Art (math and visual)
 ><br> My philosophy is: aesthetic AND bedrock technical foundations
-```
+>
 ---
 
 ## Highlighted Projects 🎨
