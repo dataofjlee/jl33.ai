@@ -49,6 +49,7 @@ Trillion dollar question: "Can LLM's learn from synthetic training data? 💡"
 - [The Pairs Trading Strategy](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation)
 - [An Exploration of the Simulated Annealling Algorithm - CS x DS](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/simulated_annealing_parameter_optimisation.ipynb)
 - [Hill Climb Algorithms to Detect Cancer]
+- [YouTube Automation | DALL-E Music Video | Song to Image AI](https://github.com/jl33-ai/song-to-image)
 
 ---
 
