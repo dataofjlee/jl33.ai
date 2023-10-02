@@ -50,7 +50,7 @@
 - [Helping Tradies Get their Money Back using Machine Learning](https://github.com/jl33-ai/security-of-payment-dataset)
 - [Girlfriends, Calendars, and the ChatGPT API](https://github.com/jl33-ai/girlfriend-gpt-butler)
 - [Reconstructing the Times Tables with Data Science](https://github.com/jl33-ai/s9-quant)
-- [The Pairs Trading Strategy]([https://github.com/jl33-ai/pairs-trading-analysis-and-simulation](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation/blob/main/Pairs%20Trading%20Strategy.ipynb)
+- [The Pairs Trading Strategy](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation/blob/main/Pairs%20Trading%20Strategy.ipynb)
 - [An Exploration of the Simulated Annealling Algorithm - CS x DS](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/simulated_annealing_parameter_optimisation.ipynb)
 - [Hill Climb Algorithms to Detect Cancer]
 - [YouTube Automation | DALL-E Music Video | Song to Image AI](https://github.com/jl33-ai/song-to-image)
