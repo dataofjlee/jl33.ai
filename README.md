@@ -37,9 +37,7 @@
 
 ><br> Hi! My name is Justin. I'm a `programming + statistics = data scientist` and I mainly love **simulating** things.
 ><br> I love to speak with people whose **model of the world** differ from mine.
-><br> I believe I lie at the intersection of DS, CS, and Art (math and visual)
-><br> My philosophy is: aesthetic AND bedrock technical foundations
->
+
 ---
 
 ## Project Show and Tell 🎨
