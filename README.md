@@ -27,14 +27,6 @@
 
 ---
 
-**About me 👦🏻**
-
-**`Name:`** `Justin`
-
-**`Located:`** `Australia 🇦🇺`
-
-**`Trillion dollar question:`** `"Can LLM's learn from synthetic training data? 💡"`
-
 ><br> Hi! My name is Justin. I'm a `programming + statistics = data scientist` and I love **simulating** things.
 ><br> I love to speak with people whose **model of the world** differ from mine.
 
