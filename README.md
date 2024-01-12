@@ -35,17 +35,19 @@
 
 **`Trillion dollar question:`** `"Can LLM's learn from synthetic training data? 💡"`
 
-><br> Hi! My name is Justin. I'm a `programming + statistics = data scientist` and I mainly love **simulating** things.
+><br> Hi! My name is Justin. I'm a `programming + statistics = data scientist` and I love **simulating** things.
 ><br> I love to speak with people whose **model of the world** differ from mine.
 
 ---
 
-## Project Show and Tell 🎨
-`Quick access to project's .ipynb notebook`
-- [Building a GPT from Scratch, Using my Personal Diary](https://github.com/jl33-ai/diary-gpt/tree/main)
-- [Helping Tradies Get their Money Back using Machine Learning](https://github.com/jl33-ai/security-of-payment-dataset)
-- [Girlfriends, Calendars, and the ChatGPT API](https://github.com/jl33-ai/girlfriend-gpt-butler)
-- [Reconstructing the Times Tables with Data Science](https://github.com/jl33-ai/s9-quant)
-- [The Pairs Trading Strategy](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation/blob/main/Pairs%20Trading%20Strategy.ipynb)
-- [An Exploration of the Simulated Annealling Algorithm - CS x DS](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/simulated_annealing_parameter_optimisation.ipynb)
-- [YouTube Automation | DALL-E Music Video | Song to Image AI](https://github.com/jl33-ai/song-to-image)
+## show and tell
+
+- [My personal site](https://jl33-ai.github.io)
+- [dotplotlib](https://github.com/jl33-ai/dotplotlib)
+- [training an llm on 2 million words of journalling](https://github.com/jl33-ai/diary-gpt/tree/main)
+- [helping tradies get paid](https://github.com/jl33-ai/security-of-payment-dataset)
+- [gpt-butler](https://github.com/jl33-ai/girlfriend-gpt-butler)
+- [reconstructing the times tables with the command line and data science](https://github.com/jl33-ai/s9-quant)
+- [pairs trading strategy](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation/blob/main/Pairs%20Trading%20Strategy.ipynb)
+- [simulated annealling](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/simulated_annealing_parameter_optimisation.ipynb)
+- [youtube automation](https://github.com/jl33-ai/song-to-image)
