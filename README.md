@@ -27,8 +27,8 @@
 
 ---
 
-><br> Hi! My name is Justin. I'm a `programming + statistics = data scientist` and I love **simulating** things.
-><br> I love to speak with people whose **model of the world** differ from mine.
+Hi! My name is Justin. I'm a `programming + statistics =machine learning` and I love **simulating** things. <br>
+I love to speak with people whose **model of the world** differ from mine.
 
 ---
 
