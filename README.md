@@ -1,33 +1,4 @@
-```
- 🌩️                    ⛈️                  🌥️         ☀️
-         🌫️🌈                        ⚡️ ☁️           🌙
-                          (1   )
-                          (  0 0)
-                           ( 1 0 )
-                          ( 1  1 )
-                            ) 0 )
-                           (0  (                 /\
-                            (_)                 /  \  /\
-                    ________[_]________      /\/    \/  \
-           /\      /\        ______    \    /   /\/\  /\/\
-          /  \    //_\       \    /\    \  /\/\/    \/    \
-   /\    / /\/\  //___\       \__/  \    \/
-  /  \  /\/    \//_____\       \ |[]|     \
- /\/\/\/       //_______\       \|__|      \
-/      \      /XXXXXXXXXX\                  \
-        \    /_I_II  I__I_\__________________\
-               I_I|  I__I_____[]_|_[]_____I
-               I_II  I__I_____[]_|_[]_____I
-               I II__I  I     XXXXXXX     I
-            ~~~~~"   “~~~~~~~~~~~~~~~~~~~~~~~~
-
-              >> "Build me a house of 1's and 0's"
-
-```
-
----
-
-Hi! My name is Justin. I'm a `programming + statistics =machine learning` and I love **simulating** things. <br>
+**Hi!** My name is Justin. I'm a `programming + statistics =machine learning` and I love **simulating** things. <br>
 I love to speak with people whose **model of the world** differ from mine.
 
 ---
