@@ -1,4 +1,5 @@
-**Hi!** My name is Justin. I'm a `programming + statistics =machine learning` and I love **simulating** things. <br>
+**Hi!** My name is Justin. 
+The story of my life is: `programming + statistics = machine learning`. <br>
 I love to speak with people whose **model of the world** differ from mine.
 
 ---
