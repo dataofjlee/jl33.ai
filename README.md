@@ -8,7 +8,11 @@ I love to speak with people whose **model of the world** differ from mine.
 
 - [My personal site](https://jl33-ai.github.io)
 - [dotplotlib](https://github.com/jl33-ai/dotplotlib)
-- [training an llm on 2 million words of journalling](https://github.com/jl33-ai/diary-gpt/tree/main)
+- [amiables-2024](https://github.com/amiables-2024)
+
+<br>
+
+- [fine-tuning an llm on 2 million words of journalling](https://github.com/jl33-ai/diary-gpt/tree/main)
 - [helping tradies get paid](https://github.com/jl33-ai/security-of-payment-dataset)
 - [gpt-butler](https://github.com/jl33-ai/girlfriend-gpt-butler)
 - [reconstructing the times tables with the command line and data science](https://github.com/jl33-ai/s9-quant)
