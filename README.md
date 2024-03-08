@@ -7,13 +7,14 @@ I love to speak with people whose **model of the world** differ from mine.
 ## show and tell
 
 - primary
-  - [My personal site](https://jl33-ai.github.io)
+  - you should just read my [My personal site](https://jl33-ai.github.io), it's much more neat. 
   - [dotplotlib](https://github.com/jl33-ai/dotplotlib)
   - [amiables-2024](https://github.com/amiables-2024)
 
 <br>
 
 - secondary
+  - [melbourne housing kaggle]()
   - [fine-tuning an llm on 2 million words of journalling](https://github.com/jl33-ai/diary-gpt/tree/main)
   - [helping tradies get paid](https://github.com/jl33-ai/security-of-payment-dataset)
   - [gpt-butler](https://github.com/jl33-ai/girlfriend-gpt-butler)
