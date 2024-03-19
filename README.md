@@ -6,14 +6,16 @@ I love to speak with people whose **model of the world** differ from mine.
 
 ## show and tell
 
-- primary
-  - you should just read my [My personal site](https://jl33-ai.github.io), it's much more neat. 
+- **PRIMARY**
+  - you should just read my [My personal site](https://jl33-ai.github.io), it's much more neat.
   - [dotplotlib](https://github.com/jl33-ai/dotplotlib)
-  - [amiables-2024](https://github.com/amiables-2024)
+  - [amiables-2024 (first place 🥇)](https://github.com/amiables-2024)
+  - [hacks4nets](https://hacks4nets.com/)
+  - [ZetaMatrix](https://zetamatrix-production.up.railway.app/)
 
 <br>
 
-- secondary
+- **SECONDARY**
   - [melbourne housing kaggle]()
   - [fine-tuning an llm on 2 million words of journalling](https://github.com/jl33-ai/diary-gpt/tree/main)
   - [helping tradies get paid](https://github.com/jl33-ai/security-of-payment-dataset)
