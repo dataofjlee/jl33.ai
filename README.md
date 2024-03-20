@@ -12,6 +12,7 @@ I love to speak with people whose **model of the world** differ from mine.
   - [amiables-2024 (first place 🥇)](https://devpost.com/software/sweet-qlndop)
   - [hacks4nets](https://hacks4nets.com/)
   - [ZetaMatrix](https://zetamatrix-production.up.railway.app/)
+  - [speech2drug](https://huggingface.co/jusstinleee/speech2drug-v4)
 
 <br>
 
