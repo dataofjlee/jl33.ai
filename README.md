@@ -9,7 +9,7 @@ I love to speak with people whose **model of the world** differ from mine.
 - **PRIMARY**
   - you should just read my [My personal site](https://jl33-ai.github.io), it's much more neat.
   - [dotplotlib](https://github.com/jl33-ai/dotplotlib)
-  - [amiables-2024 (first place 🥇)](https://github.com/amiables-2024)
+  - [amiables-2024 (first place 🥇)](https://devpost.com/software/sweet-qlndop)
   - [hacks4nets](https://hacks4nets.com/)
   - [ZetaMatrix](https://zetamatrix-production.up.railway.app/)
 
