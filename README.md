@@ -21,6 +21,6 @@ I love to speak with people whose **model of the world** differ from mine.
   - [helping tradies get paid](https://github.com/jl33-ai/security-of-payment-dataset)
   - [gpt-butler](https://github.com/jl33-ai/girlfriend-gpt-butler)
   - [reconstructing the times tables with the command line and data science](https://github.com/jl33-ai/s9-quant)
-  - [pairs trading strategy](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation/blob/main/Pairs%20Trading%20Strategy.ipynb)
+  - [pairs trading strategy](https://github.com/jl33-ai/pairs-trading-analysis-and-simulation/tree/main)
   - [simulated annealling](https://github.com/jl33-ai/competitive-programming/blob/main/amandas-automaton/simulated_annealing_parameter_optimisation.ipynb)
   - [youtube automation](https://github.com/jl33-ai/song-to-image)
