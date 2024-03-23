@@ -13,6 +13,7 @@ I love to speak with people whose **model of the world** differ from mine.
   - [hacks4nets](https://hacks4nets.com/)
   - [ZetaMatrix](https://zetamatrix-production.up.railway.app/)
   - [speech2drug](https://huggingface.co/jusstinleee/speech2drug-v4)
+  - [An actually good WAM calculator](https://wam-calculator.streamlit.app/?fbclid=IwAR1K9ixVHdMm1wE9KUK5P48BUahEgWaQ4ubhFwKJcrvxRmy9cKim3N0Coko)
 
 <br>
 
