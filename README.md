@@ -8,7 +8,7 @@ I love to speak with people whose **model of the world** differ from mine.
 
 - **PRIMARY**
   - you should just read my [My personal site](https://jl33-ai.github.io), it's much more neat.
-  - [PollAnything](https://github.com/jl33-ai/pa-frontend) [frontend](https://github.com/jl33-ai/pa-frontend) [backend](https://github.com/jl33-ai/pa-backend)
+  - [PollAnything]([https://github.com/jl33-ai/pa-frontend](https://sampler-sage.vercel.app/)) [frontend](https://github.com/jl33-ai/pa-frontend) [backend](https://github.com/jl33-ai/pa-backend)
   - [dotplotlib](https://github.com/jl33-ai/dotplotlib)
   - [amiables-2024 (first place 🥇)](https://devpost.com/software/sweet-qlndop)
   - [hacks4nets](https://hacks4nets.com/)
