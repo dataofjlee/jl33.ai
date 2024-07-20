@@ -1,12 +1,6 @@
-**Hi!** My name is Justin. 
-The story of my life is: `programming + statistics = machine learning`. <br>
-I love to speak with people whose **model of the world** differ from mine.
+# show and tell
 
----
-
-## show and tell
-
-- **PRIMARY**
+### PRIMARY
   - you should just read my [My personal site](https://jl33-ai.github.io), it's much more neat.
   - [PollAnything](https://sampler-sage.vercel.app/) [frontend](https://github.com/jl33-ai/pa-frontend) [backend](https://github.com/jl33-ai/pa-backend)
   - [dotplotlib](https://github.com/jl33-ai/dotplotlib)
@@ -18,7 +12,7 @@ I love to speak with people whose **model of the world** differ from mine.
 
 <br>
 
-- **SECONDARY**
+### SECONDARY
   - [melbourne housing kaggle]()
   - [fine-tuning an llm on 2 million words of journalling](https://github.com/jl33-ai/diary-gpt/tree/main)
   - [helping tradies get paid](https://github.com/jl33-ai/security-of-payment-dataset)
