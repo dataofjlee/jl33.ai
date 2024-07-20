@@ -1,7 +1,9 @@
-# show and tell
+# Show and tell
 
-### PRIMARY
+### Primary
+---
   - you should just read my [My personal site](https://jl33-ai.github.io), it's much more neat.
+  - [IPFS Plugin for Hexo](https://github.com/jl33-ai/hexo-ipfs-plugin)
   - [PollAnything](https://sampler-sage.vercel.app/) [frontend](https://github.com/jl33-ai/pa-frontend) [backend](https://github.com/jl33-ai/pa-backend)
   - [dotplotlib](https://github.com/jl33-ai/dotplotlib)
   - [amiables-2024 (first place 🥇)](https://devpost.com/software/sweet-qlndop)
@@ -12,7 +14,8 @@
 
 <br>
 
-### SECONDARY
+### Secondary
+---
   - [melbourne housing kaggle]()
   - [fine-tuning an llm on 2 million words of journalling](https://github.com/jl33-ai/diary-gpt/tree/main)
   - [helping tradies get paid](https://github.com/jl33-ai/security-of-payment-dataset)
