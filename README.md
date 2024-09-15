@@ -6,7 +6,7 @@
   - [IPFS Plugin for Hexo](https://github.com/jl33-ai/hexo-ipfs-plugin)
   - [PollAnything](https://sampler-sage.vercel.app/) [frontend](https://github.com/jl33-ai/pa-frontend) [backend](https://github.com/jl33-ai/pa-backend)
   - [dotplotlib](https://github.com/jl33-ai/dotplotlib)
-  - [amiables-2024 (first place 🥇)](https://devpost.com/software/sweet-qlndop)
+  - [UniHack 2024 (First Place 🥇)](https://devpost.com/software/sweet-qlndop)
   - [hacks4nets](https://hacks4nets.com/)
   - [ZetaMatrix](https://zetamatrix-production.up.railway.app/)
   - [speech2drug](https://huggingface.co/jusstinleee/speech2drug-v4)
