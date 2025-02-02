@@ -1,1 +1,1 @@
-[My site](https://jl33-ai.github.io)
+[My website](https://jl33-ai.github.io)
